@@ -24,3 +24,7 @@ A new Flutter package project for bottom navigation bar. You can directly import
  Jummping_bottom_bar
 # Jummping_bottom_bar
 # Jumping_Bootombar
+# jumping_bottombar
+# jumping_bottombar
+# jumping_bottombar
+ jumping_bottombar
