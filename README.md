@@ -28,3 +28,4 @@ A new Flutter package project for bottom navigation bar. You can directly import
 # jumping_bottombar
 # jumping_bottombar
  jumping_bottombar
+# jumping_bottombar
