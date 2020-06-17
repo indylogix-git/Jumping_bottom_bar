@@ -11,15 +11,9 @@ A new Flutter package project for bottom navigation bar. You can directly import
 [Jumping Bottom Navigation Bar](https://pub.dev/packages/jumping_bottom_nav_bar_flutter)
 
 
-## My flutter Application on Play store please visit
-
-[Send Message without saving Number](https://play.google.com/store/apps/details?id=com.shubham.flutter_whats_me)
-
-
 jumping_bottom_nav_bar_flutter
 A new Flutter package project for bottom navigation bar. You can directly import this package in your pubspec.yaml file and just call this library in your code you get jumping bottom nav bar.
 
 Jumping_bottom_bar
-Jummping_bottom_bar
 
 If you want to outsource your Flutter project, email us on info@indylogix.com
